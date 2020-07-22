@@ -1,2 +1,2 @@
-# -Interliga-o-de-telas
+Interligação de telas
 Android Studio- Interligando telas
